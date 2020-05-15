@@ -36,4 +36,5 @@
 3.	Click the Next and Previous buttons at the bottom of the page to go forward or backward 30 days
 4.	At the top of the page you can search for tours by date, name, or mobile number
 
-
+# Usage
+for a video showing the program in action and explaining how to navigate the site see [here](https://www.youtube.com/watch?v=DlzXart5X0c&feature=youtu.be)
