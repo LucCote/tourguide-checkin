@@ -9,7 +9,7 @@
 8.	Create a new user with the following options:
      -	Username: AdmWebsite
      -	Hostname: localhost
-     -	Password: PrincetonAdmissions
+     -	Password: your password
      -	Grant user all data and structure privileges
 9.	Once the new user has been created go to Create Tables
 10.	Congratulations! if all of these steps have been followed successfully the online admissions checkin should be ready.
