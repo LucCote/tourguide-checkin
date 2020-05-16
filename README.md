@@ -1,3 +1,7 @@
+# Note for DALI
+This is a proof of concept for an electronic tour guide signin system I made for a friend who was a tour guide at Princeton to help pitch replacing their paper one. I built this the summer between my sophomore and junior highschool years and it is essentially my first big coding project. Since then I have learned much better documenting and structuring practices (and how to make less enmbarassing instructional videos), so the poor documentation and organization is not a reflection of how I currently code. That being said, I still think this was a cool project that has some important concepts (frontend-backend communication, site mapping, encryption, databases, etc) and the end result is something I stand behind.
+
+
 # Setup
 1.	Download MAMP
 2.	Open MAMP and start servers
